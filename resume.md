@@ -7,12 +7,6 @@ Daniel J Davison
 
 ### Background
 
-#### Quality Assurance
-- Used the Scrum process to manage the software development lifecycle
-- Manually tested software applications to ensure overall quality
-- Created and maintained automation frameworks using selenium to automate manual testing processes to save the company money
-- Collaborated in a team environment to achieve maximum results
-
 #### Programming
 - Regular contributor to StackOverflow, namely the Java and Selenium tags
 - Created and manage several open source repositories on GitHub and BitBucket
@@ -28,6 +22,12 @@ Daniel J Davison
 - Used Node.js, CoffeeScript, HAML, SCSS (SASS) and NoSQL technologies like MongoDB to build scalable, fast and responsive web applications
 - Created dynamic web sites using PHP to create RESTful web services
 - Designed powerful and attractive UI's using Bootstrap
+
+#### Quality Assurance
+- Used the Scrum process to manage the software development lifecycle
+- Manually tested software applications to ensure overall quality
+- Created and maintained automation frameworks using selenium to automate manual testing processes to save the company money
+- Collaborated in a team environment to achieve maximum results
 
 ===
 
