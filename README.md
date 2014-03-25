@@ -3,8 +3,6 @@ Daniel J Davison
 - (517) 240-9705
 - Ann Arbor, MI
 
-===
-
 ### Background
 
 #### Programming
@@ -28,8 +26,6 @@ Daniel J Davison
 - Manually tested software applications to ensure overall quality
 - Created and maintained automation frameworks using selenium to automate manual testing processes to save the company money
 - Collaborated in a team environment to achieve maximum results
-
-===
 
 ### Work Experience
 
